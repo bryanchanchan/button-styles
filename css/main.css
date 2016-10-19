@@ -26,11 +26,11 @@ div {
   background-color: #000;
 }
 
-.btn-sub {
+.btn-subtle {
   background-color: #ccc;
 }
 
-.btn-sub:hover {
+.btn-subtle:hover {
   background-color: #666;
 }
 
@@ -63,12 +63,12 @@ div {
   background-color: #000;
 }
 
-.btn-subsmall {
+.btn-subtlesmall {
   background-color: #ccc;
   font-size: 0.875rem;
 }
 
-.btn-subsmall:hover {
+.btn-subtlesmall:hover {
   background-color: #666;
 }
 
@@ -102,12 +102,12 @@ div {
   background-color: #000;
 }
 
-.btn-subbig {
+.btn-subtlebig {
   background-color: #ccc;
   font-size: 1.5rem;
 }
 
-.btn-subbig:hover {
+.btn-subtlebig:hover {
   background-color: #666;
 }
 
